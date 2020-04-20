@@ -1,0 +1,117 @@
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 3rem 7rem;
+    background-image: linear-gradient(red);
+}
+
+.mode{
+    text-align: right;
+    position: relative;
+    bottom: 6.5rem;
+}
+
+.switch-text{
+    text-align: right;
+    position: relative;
+    right: 3rem;
+    bottom: 4.1rem;
+}
+
+.dark-mode{
+    background-color: hsl(230, 17%, 14%);
+    color: #fff;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+.box{
+    background-color: hsl(227, 47%, 96%);
+}
+
+.bds{
+    border-top-color: hsl(195, 100%, 50%);
+    border-top-width: 5px;
+}
+
+.dark-box{
+    background-color: hsl(228, 28%, 20%);
+    color: #fff;
+}
+
+.bds1{
+    border-top-color: hsl(203, 89%, 53%);
+    border-top-width:5px ;
+}
+
+.bds2{
+    border-top-color: gold;
+    border-top-width: 5px;
+}
+
+.bds3{
+    border-top-color: hsl(348, 97%, 39%);
+    border-top-width:5px ;
+}
+.text{
+    color: hsl(228, 12%, 44%);
+}
+
+pre{
+    color: hsl(228, 12%, 44%);
+}
+
+
+.icons{
+    position: relative;
+    left: 7.75rem;
+}
+
+.followers{
+    position: relative;
+    bottom: 0.2rem;
+    color: hsl(228, 12%, 44%);
+}
+
+
+.img{
+    position: relative;
+    right: 0.4rem;
+}
+
+
+.img1{
+    position: relative;
+    right: 3px;
+}
+
+.trend{
+    color: #1EB589;
+}
+
+.Dtrend{
+    color: #C4032B;
+}
+
+.align-left{
+    float: left;
+    position: absolute;
+    bottom: 10px;
+}
+
+.align-right{
+    float: right;
+    padding-right: 4px;
+    position: relative;
+    top: 1rem;
+}
+
+.T-up{
+    color: #1EB589;
+}
+
+.T-down{
+    color: #C4032B;
+}
+
